@@ -1,0 +1,14 @@
+#Titulo{
+    background-color: rgb(34, 174, 230);
+    color:snow ;
+}
+
+#Primer_Parrafo{
+    color: rgb(234, 254, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+body{
+    background-color: darkslategrey;
+}
